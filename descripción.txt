@@ -1,0 +1,4 @@
+Los archivos de este repositorio corresponden a los gerber que contiene la 
+información necesaria para la fabricación de los dispositivos electronicos
+de http://www.birdielab.com.mx que tambien estan a la venta en mercado libre.
+Y fueron desarrollados por Eliel de la O Silva. 
